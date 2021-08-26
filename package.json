@@ -1,6 +1,7 @@
 {
   "name": "rescript-apollo-client",
   "description": "ReScript bindings for the Apollo Client ecosystem",
+  "main": "index.js",
   "version": "2.1.0",
   "keywords": [
     "Apollo",
